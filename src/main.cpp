@@ -38,7 +38,7 @@ unsigned long lastMillis;
 unsigned int number;
 boolean valueChanged = true;
 
-#define INTERVAL_BETWEEN_PUBLISH 60000
+#define INTERVAL_BETWEEN_PUBLISH 10000
 
 void conectaWifi();
 
