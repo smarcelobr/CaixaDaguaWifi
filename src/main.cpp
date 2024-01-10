@@ -15,9 +15,10 @@
 #include "OTA.h"
 #include "LiquidSensor.h"
 #include "LittleFS.h"
+#include "WifiCredentials.h"
 
-const char *ssid = "jardimdomeier";
-const char *password = "sergioeluciene";
+const char *ssid = WIFI_SSID;
+const char *password = WIFI_PASSWORD;
 
 OTA ota = OTA();
 
