@@ -31,6 +31,12 @@
 
 ![docs/img.png](docs/img.png)
 
+## Platform.io
+
+para build:
+
+> 
+
 ### Referências na internet:
 
 [Como usar o sensor de líquido XKC-Y25-V](https://www.arduinoecia.com.br/como-usar-sensor-de-liquido-xkc-y25-arduino/)
