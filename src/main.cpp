@@ -22,10 +22,10 @@ const char *password = WIFI_PASSWORD;
 
 OTA ota = OTA();
 
+#define SENSOR_0 D6
+#define SENSOR_10 D5
+#define SENSOR_50 D7
 #define SENSOR_100 D2
-#define SENSOR_0 D5
-#define SENSOR_50 D6
-#define SENSOR_10 D7
 #define NUM_SENSORES 4
 LiquidSensor sensor[NUM_SENSORES] = {LiquidSensor(SENSOR_100),
                                      LiquidSensor(SENSOR_50),
