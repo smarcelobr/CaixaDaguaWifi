@@ -5,7 +5,7 @@
 #ifndef CAIXADAGUAWIFI_WIFICREDENTIALS_H
 #define CAIXADAGUAWIFI_WIFICREDENTIALS_H
 
-#ifdef IGUABA
+#ifdef IGUABA_WIFI
 const char WIFI_SSID[] = "C145";
 const char WIFI_PASSWORD[] = "***";
 #else

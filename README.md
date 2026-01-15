@@ -23,8 +23,8 @@
 ### Pinagem
 
 - VCC - Marrom
-- GND - Azul
 - OUT - Amarelo
+- GND - Azul
 - MODE - Preto
 
 *(considere as cores dos cabos, não confie na posição apresentada na imagem)*
